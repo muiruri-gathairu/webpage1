@@ -1,0 +1,23 @@
+h2 {
+    text-align: center;
+    color: blueviolet;
+}
+
+div {
+    text-align: center;
+    color: red;
+    background-image: url("images/space.png");
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+body { 
+    background-color: cornflowerblue;
+    
+ }
+
+ #home h4{
+     padding: 0px;
+     margin: 0px;
+ }
